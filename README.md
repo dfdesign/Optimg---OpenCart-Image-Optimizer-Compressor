@@ -6,6 +6,8 @@ For OpenCart 2.
 * Improve your UX
 * Improve your SEO
 
+(https://github.com/dfdesign/Optimg---OpenCart-Image-Optimizer-Compressor/blob/master/optimg.png?raw=true)
+
 ## Installation
 
 Upload files and folders from "admin" folder in your "admin" folder.
