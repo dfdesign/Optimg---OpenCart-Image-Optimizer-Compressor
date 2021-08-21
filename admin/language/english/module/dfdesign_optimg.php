@@ -1,17 +1,15 @@
 <?php
 // Heading
-$_['heading_title'] = 'OPTIMG Image Compressor';
+$_['heading_title']    = 'Optimg - Image Optimiser';
 
-$_['text_module'] = 'Modules';
-$_['text_success'] = 'Success: You have modified affiliate module!';
-$_['text_edit'] = 'Edit Affiliate Module';
-$_['images_text'] = 'images';
-$_['optimised_text'] = 'OPTIMISED';
-$_['not_optimised_text'] = 'NOT OPTIMISED';
-$_['optimise_text'] = 'Optimise';
+// Text
+$_['text_extension']   = 'Extensions';
+$_['text_success']     = 'Success: You have modified Optimg module!';
+$_['text_edit']        = 'Edit Optimg Module';
 
 // Entry
-$_['entry_status'] = 'Status';
+$_['entry_status']     = 'Status';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify affiliate module!';
+$_['error_permission'] = 'Warning: You do not have permission to modify Optimg module!';
+$_['writing_file_permission'] = 'Warning: You do not have permission to create storage file for Optimg module!';
