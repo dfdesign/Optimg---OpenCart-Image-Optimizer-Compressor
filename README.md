@@ -6,7 +6,7 @@ For OpenCart 2.
 * Improve your UX
 * Improve your SEO
 
-(https://github.com/dfdesign/Optimg---OpenCart-Image-Optimizer-Compressor/blob/master/optimg.png?raw=true)
+![alt text](https://github.com/dfdesign/Optimg---OpenCart-Image-Optimizer-Compressor/blob/master/optimg.png?raw=true)
 
 ## Installation
 
